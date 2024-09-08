@@ -10,7 +10,7 @@
 - **Collaborateurs et partenaires :** Ristband, qui utilise l'intelligence artificielle, les moteurs de jeu et d'autres technologies avancées pour créer des expériences immersives.
 
 ![Venice Bleach (Roman Rappak)](images/artiste_01.jpg)
-![Venice Bleach (Roman Rappak) en performance](images/artiste_02.jpeg)
+![Venice Bleach (Roman Rappak) en performance](images/artiste_02.jpg)
 
 ## Dates
 
@@ -44,7 +44,7 @@
 
 - **Processus de création :** Développé avec la technologie propriétaire de Ristband, "Formation" a été conçu pour explorer la synergie entre musique en direct et environnements virtuels, en mettant l'accent sur l'interaction en temps réel et l'immersion totale.
 
-![Image de l'installation de l'oeuvre](images/installation_01.jpeg)
+![Image de l'installation de l'oeuvre](images/installation_01.jpg)
 
 ## Composante centrale et fonctionnement
 
