@@ -3,11 +3,17 @@
 ## Auteur(s)
 
 - **Nom de l'auteur :** Venice Bleach (Roman Rappak), artiste et producteur de musique électronique basé entre Paris et Londres.
-- **Équipe de production :** Venice Bleach en collaboration avec le studio numérique Ristband.
+- **Équipe de production :** Venice Bleach en collaboration avec le studio numérique [Ristband](https://www.ristband.co/).
 
 ![Bannière Venice Bleach](images/venice_bleach.jpg)
 
-- **Collaborateurs et partenaires :** Ristband, qui utilise l'intelligence artificielle, les moteurs de jeu et d'autres technologies avancées pour créer des expériences immersives.
+- **Collaborateurs et partenaires :** 
+- Ristband
+- Epic games
+- Music Ally
+- Forbes
+- ...
+
 
 ![Venice Bleach (Roman Rappak)](images/artiste_01.jpg)
 ![Venice Bleach (Roman Rappak) en performance](images/artiste_02.jpg)
@@ -29,11 +35,11 @@
 
 ## Description de l'œuvre
 
-- **Description générale :** "Formations" est une expérience immersive de réalité virtuelle qui intègre des éléments interactifs réactifs à la musique en direct. Les participants, équipés de casques VR, sont plongés dans un environnement virtuel dynamique qui évolue en réponse aux stimuli sonores et visuels.
+- **Description générale :** "Formations" est une expérience immersive de réalité virtuelle qui intègre des éléments interactifs réactifs à la musique en direct. Les participants, équipés de casques VR, sont plongés dans un environnement virtuel dynamique qui évolue en réponse aux stimuli sonores et visuels. Voir [Video](https://www.venicebleachofficial.com/experimental).
 
 ![Performance live de Venice Bleach](images/performance_01.jpg)
 
-- **Objectifs de l'œuvre :** Créer une immersion totale en combinant la réalité virtuelle et la musique en direct, afin de repousser les limites de l'interaction entre les médias numériques et les performances artistiques.
+- **Objectifs de l'œuvre :** Créer une immersion totale en combinant la réalité virtuelle et la musique en direct, afin de repousser les limites de l'interaction entre les médias numériques et les performances artistiques. 
 
 - **Public cible :** Enthousiastes de la réalité virtuelle, amateurs de musique immersive et passionnés d'art numérique interactif.
 
@@ -68,3 +74,4 @@
 
 - https://www.venicebleachofficial.com/
 - https://village-numerique.mutek.org/fr/installations/formations-par-ristband-et-venice-bleach
+- https://www.ristband.co/
