@@ -22,27 +22,27 @@
 ## Contexte de présentation
 
 - **Lieu de présentation initiale :** FORMATIONS a été présenté pour la première fois au **SXSW 2023**, à Austin, Texas (13 mars - 19 mars 2023).
-- **Contexte géographique et culturel :** L'œuvre mélange de manière innovante la musique électronique live et la réalité virtuelle. Elle est présentée dans des festivals internationaux qui explorent l'intersection de la musique et des technologies numériques immersives.
+- **Contexte géographique et culturel :** L'œuvre mélange de manière innovante la musique électronique live et la réalité virtuelle. Elle est présentée dans des festivals internationaux qui explorent l'univers de la musique et des technologies numériques immersives.
 - **Autres lieux de présentation :**
   - **SIFF** à Shanghai, Chine (du 14 au 23 juin 2024)
   - **MUTEK 2024** à Montréal, Québec, Canada (du 15 au 29 août 2024)
 
 ## Description de l'œuvre
 
-- **Description générale :** "Formation" est une expérience immersive de réalité virtuelle qui intègre des éléments interactifs réactifs à la musique en direct. Les participants, équipés de casques VR, sont plongés dans un environnement virtuel dynamique qui évolue en réponse aux stimuli sonores et visuels.
+- **Description générale :** "Formations" est une expérience immersive de réalité virtuelle qui intègre des éléments interactifs réactifs à la musique en direct. Les participants, équipés de casques VR, sont plongés dans un environnement virtuel dynamique qui évolue en réponse aux stimuli sonores et visuels.
 
 ![Performance live de Venice Bleach](images/performance_01.jpg)
 
-- **Objectifs de l'œuvre :** Créer une immersion totale en combinant la réalité virtuelle et la musique live, afin de repousser les limites de l'interaction entre les médias numériques et les performances artistiques.
+- **Objectifs de l'œuvre :** Créer une immersion totale en combinant la réalité virtuelle et la musique en direct, afin de repousser les limites de l'interaction entre les médias numériques et les performances artistiques.
 
 - **Public cible :** Enthousiastes de la réalité virtuelle, amateurs de musique immersive et passionnés d'art numérique interactif.
 
 ![Extrait de visuel de FORMATIONS](images/experience_01.jpg)
 ![Extrait de visuel de FORMATIONS](images/experience_02.jpg)
 
-- **Aspects techniques :** Utilisation de moteurs de jeu et de technologies de réalité virtuelle pour concevoir un environnement interactif en temps réel. L'expérience intègre également des éléments audio-visuels pour enrichir l'immersion. Les outils utilisés comprennent Premiere Pro pour le montage vidéo et Unreal Engine pour la création d'environnements virtuels interactifs.
+- **Aspects techniques :** Utilisation de moteurs de jeu et de technologies de réalité virtuelle pour concevoir un environnement interactif en temps réel. Les outils utilisés comprennent Premiere Pro pour le montage vidéo et Unreal Engine pour la création d'environnements virtuels interactifs.
 
-- **Processus de création :** Développé avec la technologie propriétaire de Ristband, "Formation" a été conçu pour explorer la synergie entre musique en direct et environnements virtuels, en mettant l'accent sur l'interaction en temps réel et l'immersion totale.
+- **Processus de création :** Développé avec la technologie propriétaire de Ristband, le processus créatif a impliqué la musique électronique, la conception en réalité mixte et des éléments de la culture gaming, créant ainsi une expérience hybride entre concert et univers virtuel​.
 
 ![Image de l'installation de l'oeuvre](images/installation_01.jpg)
 
@@ -54,7 +54,7 @@
 
 ## Appréciation et commentaire personnel
 
-- **Pourquoi avoir choisi cette œuvre ?** FORMATIONS est un exemple fascinant de l'avenir des arts numériques et de la musique. Il montre comment la technologie peut créer des expériences immersives inédites et engager le public de manière interactive et collective.
+- **Pourquoi avoir choisi cette œuvre ?** J'ai choisi Formation parce que c'est un excellent exemple de ce que peut devenir l'art numérique et la musique à l'avenir. Grâce à la technologie, cette œuvre permet de vivre une expérience immersive unique où le public interagit avec la musique et le visuel en temps réel. C'est une nouvelle façon d'impliquer les spectateurs dans une expérience collective et interactive.
 
 ## Liens associés
 
